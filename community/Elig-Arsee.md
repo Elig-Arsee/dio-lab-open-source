@@ -1,25 +1,19 @@
 # Elig Arse
 
 Olá, me chamo Elig (se lê Éligui) 😂
-Sou uma Cientista Social aspirante a Cientista de Dados. Atualmente estou fazendo pós graduação em Data Science e Analytics
-e atuo como Analista Educacional com foco em gestão de aprendizagem e indicadores na área de Educação Corporativa.
+
+Sou uma Cientista Social aspirante a Cientista de Dados. Atualmente estou fazendo pós graduação em Data Science e Analyticse atuo como Analista Educacional com foco em gestão de aprendizagem e indicadores na área de Educação Corporativa.
 
 # Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/elig-arse/)
-
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](https://mail.google.com/mail/u/0/#inbox)
-
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](mailto:arse.eligc@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=WhatsApp&logoColor=0E76A8)](https://www.linkedin.com/in/elig-arse/)
 
 # Habilidades em desenvolvimento
-[![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=0E76A8)](https://www.linkedin.com/in/elig-arse/)
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=0E76A8)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=0E76A8) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=0E76A8) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)
 
-[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=0E76A8)](https://mail.google.com/mail/u/0/#inbox)
-
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=0E76A8)](https://mail.google.com/mail/u/0/#inbox)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://mail.google.com/mail/u/0/#inbox)
 # GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elig-Arsee&show_icons=true&theme=onedark)
 
